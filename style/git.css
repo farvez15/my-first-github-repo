@@ -2,3 +2,9 @@ h2{
     color: aqua;
     font-weight: bolder;
 }
+img{
+    border: 2px solid blueviolet ;
+    width: 100px;
+    display: block;
+    margin: 2px;
+}
